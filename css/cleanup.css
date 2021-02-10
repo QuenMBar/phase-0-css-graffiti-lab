@@ -1,1 +1,21 @@
 /* write your override styles here */
+#wall .tag-1 {
+    transform: rotate(105deg);
+}
+
+#wall #tag-4 {
+    background-color: aliceblue;
+    margin-top: 30%;
+    height: 54%;
+    width: 54%;
+}
+
+#wall .tag-3 {
+    display: none;
+}
+
+#wall #tag-6 {
+    margin-top: 10%;
+    margin-right: 30%;
+    height: auto;
+}
